@@ -1,0 +1,11 @@
+#logo{
+	position: fixed;
+	top: 1%;
+	left: 1%;
+	width: 13%;
+	height: 13%;
+}
+
+body{
+	font-family: 'Trebuchet MS', sans-serif;
+}
